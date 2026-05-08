@@ -47,7 +47,7 @@ The presentation aims to guide engineers in implementing robust security feature
 - Understand common features and mechanisms to design secure systems using PSOC™ Edge
 
 ## Content
-- Training video at Infineon Academy (coming soon)
+- [Training video at Infineon Academy](https://infineon-academy.csod.com/ui/lms-learning-details/app/video/b2ff54db-c8e4-4a97-be48-323fb88f2461)
 - [Presentation](./Presentation/PSE_designing_secure_system.pdf)
 
 ## References and resources
